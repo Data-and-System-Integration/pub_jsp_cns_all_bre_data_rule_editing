@@ -58,7 +58,7 @@
       <isModify>false</isModify>
     </fact-data>
     <execution-trace>
-      <executionTimeResult>154</executionTimeResult>
+      <executionTimeResult>164</executionTimeResult>
       <numberOfRulesFired>8</numberOfRulesFired>
     </execution-trace>
     <expect-fact>
@@ -92,7 +92,7 @@
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
-  <lastRunResult>2020-06-19 10:52:00.90 UTC</lastRunResult>
+  <lastRunResult>2020-06-19 11:03:56.605 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.jsp_cns_mon.pub_jsp_cns_all_bre_data_rule_editing</packageName>
